@@ -1,0 +1,70 @@
+*{
+    padding: 9;
+    margin: 9;
+}
+
+#bd{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+
+.img1{
+width: 30%;
+}
+
+
+.txt{
+    text-align: center;
+}
+
+button{
+   border-radius: 0.7em;
+   background-color: black;
+   text-decoration: none;
+   font-size: 22px;
+   margin-left: 20px;
+   margin-right: 20px;
+   padding: 15px;
+
+}
+
+button:hover{
+    background-color: blueviolet;
+}
+/*hjgfhteduytsarfuwyt
+
+#btn2:hover{
+    background-color: orangered;
+}*/
+
+
+.link-btn{
+    text-decoration: none;
+    color: white;
+}
+
+.link-btn2{
+    text-decoration: none;
+    color: white;
+}
+
+#ttc{
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+    background-color: orangered;
+    border-radius: 0.2em;
+}
+
+#txt1{
+    text-align:center ;
+}
+
+.img2{
+    width: 30%;
+    align-items: center;
+    border-radius: 0.7em 0.7em 0.7em 0.7em;
+}
